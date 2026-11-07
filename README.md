@@ -1,16 +1,18 @@
-## Hi there 👋
+﻿# Hi, I'm Rony
 
-<!--
-**Rony60031/Rony60031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student who enjoys learning by building real projects with C++, SQL and web technologies.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ | SQL | SQLite | HTML | CSS | JavaScript | Git & GitHub
+
+## Projects
+
+- [Student Management System](https://github.com/Rony60031/student-management-system) - C++ and SQLite CRUD application
+- [Library Management System](https://github.com/Rony60031/library-management-system) - C++ and SQLite with multiple related tables and JOIN queries
+- [Personal Portfolio](https://github.com/Rony60031/personal-portfolio) - Responsive website built with HTML, CSS and JavaScript ([live demo](https://rony60031.github.io/personal-portfolio/))
+
+## Contact
+
+- Email: iarony35@gmail.com
+- GitHub: [Rony60031](https://github.com/Rony60031)
