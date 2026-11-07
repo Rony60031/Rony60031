@@ -13,6 +13,7 @@ C++ | Python | SQL | SQLite | HTML | CSS | JavaScript | Git & GitHub
 - [Personal Portfolio](https://github.com/Rony60031/personal-portfolio) - Responsive website built with HTML, CSS and JavaScript ([live demo](https://rony60031.github.io/personal-portfolio/))
 - [Inventory Management System](https://github.com/Rony60031/inventory-management-system) - Python and SQLite application with stock tracking and reports
 - [Employee Management System](https://github.com/Rony60031/employee-management-system) - Python and SQLite application with department reports
+- [Bank Management System](https://github.com/Rony60031/bank-management-system) - Python and SQLite application with atomic transfers and transaction history
 
 ## Contact
 
