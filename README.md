@@ -16,7 +16,7 @@ C++ | Python | SQL | SQLite | HTML | CSS | JavaScript | Git & GitHub
 - [Bank Management System](https://github.com/Rony60031/bank-management-system) - Python and SQLite application with atomic transfers and transaction history
 - [Railway Reservation System](https://github.com/Rony60031/railway-reservation-system) - Python and SQLite ticket booking with per-date seat availability
 - [E-commerce Website](https://github.com/Rony60031/ecommerce-website) - Online store front end with search, filters and a persistent cart ([live demo](https://rony60031.github.io/ecommerce-website/))
-- - [CatDog CNN Classification](https://github.com/Rony60031/CatDog_CNN_Classification) - Python and PyTorch CNN for cat and dog image classification, with training, validation, data augmentation and optimization.
+[CatDog CNN Classification](https://github.com/Rony60031/CatDog_CNN_Classification) - Python and PyTorch CNN for cat and dog image classification, with training, validation, data augmentation and optimization.
 
 ## Contact
 
