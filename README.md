@@ -16,7 +16,7 @@ C++ | Python | SQL | SQLite | HTML | CSS | JavaScript | PyTorch | CNN | Logisim 
 
 [Bank Management System](https://github.com/Rony60031/bank-management-system) - Python and SQLite transaction management.
 
-[Hospital Management System](#) - Project planned.
+[Hospital Management System](https://github.com/Rony60031/Hospital-Management-System-Java) - Java and SQLite hospital management application.
 
 [E-commerce Website](https://github.com/Rony60031/ecommerce-website) - HTML, CSS and JavaScript online store.
 
@@ -55,3 +55,4 @@ C++ | Python | SQL | SQLite | HTML | CSS | JavaScript | PyTorch | CNN | Logisim 
 ## Contact
 
 - GitHub: [Rony60031](https://github.com/Rony60031)
+
