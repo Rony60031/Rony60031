@@ -1,4 +1,4 @@
-﻿# Hi, I'm Rony
+# Hi, I'm Rony
 
 Computer Science student who enjoys learning by building real projects with C++, Python, SQL and web technologies.
 
@@ -20,7 +20,7 @@ C++ | Python | SQL | SQLite | HTML | CSS | JavaScript | PyTorch | CNN | Logisim 
 
 [E-commerce Website](https://github.com/Rony60031/ecommerce-website) - HTML, CSS and JavaScript online store.
 
-[Online Examination System](#) - Project planned.
+[Online Examination System](https://github.com/Rony60031/Online-Examination-System) - PHP and MariaDB-based online MCQ examination platform with student and admin management, timed exams and automatic results.
 
 [Personal Portfolio Website](https://github.com/Rony60031/personal-portfolio) - Responsive personal website.
 
