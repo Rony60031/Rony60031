@@ -4,7 +4,7 @@ Computer Science student who enjoys learning by building real projects with C++,
 
 ## Skills
 
-C++ | Python | SQL | SQLite | HTML | CSS | JavaScript | Git & GitHub
+C++ | Python | SQL | SQLite | HTML | CSS | JavaScript | Logisim Evolution | Git & GitHub
 
 ## Projects
 
@@ -16,9 +16,7 @@ C++ | Python | SQL | SQLite | HTML | CSS | JavaScript | Git & GitHub
 - [Bank Management System](https://github.com/Rony60031/bank-management-system) - Python and SQLite application with atomic transfers and transaction history
 - [Railway Reservation System](https://github.com/Rony60031/railway-reservation-system) - Python and SQLite ticket booking with per-date seat availability
 - [E-commerce Website](https://github.com/Rony60031/ecommerce-website) - Online store front end with search, filters and a persistent cart ([live demo](https://rony60031.github.io/ecommerce-website/))
-- [CatDog CNN Classification](https://github.com/Rony60031/CatDog_CNN_Classification) - Python and PyTorch CNN for cat and dog image classification, with training, validation, data augmentation and optimization.
-- [MNIST Handwritten Digit Recognition](https://github.com/Rony60031/MNIST_Handwritten_Digit_Recognition) - CNN-based handwritten digit classification using Python and PyTorch, achieving 98.91% test accuracy on MNIST.
-- [SQL Student Database Management](https://github.com/Rony60031/SQL-Student-Database-Management) - Student database design and management using SQL Server, T-SQL, views, joins and data manipulation.
+- [8-bit ALU](https://github.com/Rony60031/alu-8bit-logisim) - 8-bit ALU with 8 operations and Z, C, N, V flags, designed in Logisim Evolution
 
 ## Contact
 
